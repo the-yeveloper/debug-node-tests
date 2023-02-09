@@ -14,7 +14,7 @@ $ npm test
 
 you will see some test failures, your task is to resolve these tests using a debugger 
 - base configuration for VSCode is included -> Place a break point -> Navigate to run to with debugger on the left of the VSCode ->  Run `Run Script test`
-- Jet brains products allow you to right click on a function and start a debugger
+- Jetbrains products allow you to right click on a function and start a debugger
 
 ## Description
 
